@@ -1,1 +1,1 @@
-# test-target-repo
+Business outcome: a security/compliance team stops manually screenshotting AWS consoles and GitHub settings every quarter. Evidence is collected continuously, AI-triaged, human-approved only where it matters, and exportable in minutes when an auditor asks.
